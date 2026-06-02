@@ -4,10 +4,7 @@
 
 > *living by the moto "create not consume".*
 
-building things at the intersection of ml and interesting ui; 
-film emulation models, music compatibility matchmaking, A* campus navigation. 
-
-learning by shipping.
+i like building things at the intersection of ml and interesting ui .✦ ݁˖
 
 **currently tinkering with** → neural film stock emulation (CycleGAN + ResNet)
 
