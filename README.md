@@ -1,6 +1,6 @@
 ## Hey ! i'm ayati, a serial side-project experimenter
 
-**cce @ mit manipal '28**
+*** 20 | infp | cce @ mit manipal '28**
 
 > *living by the moto "create not consume".*
 
