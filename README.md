@@ -5,7 +5,8 @@
 > *living by the moto "create not consume".*
 
 building things at the intersection of ml and interesting ui; film emulation models,
-a* campus nav systems, spotify dating apps. i learn by shipping.
+a* campus nav systems, spotify dating apps. 
+i learn by shipping.
 
 **currently tinkering with** → neural film stock emulation (CycleGAN + ResNet)
 
