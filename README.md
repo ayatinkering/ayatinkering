@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey ! i'm ayati, a serial side-project experimenter
 
-<!--
-**ayatinkering/ayatinkering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cce @ mit manipal '28**
 
-Here are some ideas to get you started:
+> *living by the moto "create not consume".*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+building things at the intersection of ml and interesting ui; film emulation models,
+a* campus nav systems, spotify dating apps. i learn by shipping.
+
+**currently tinkering with** → neural film stock emulation (CycleGAN + ResNet)
+
+---
+
+**interests** → computer vision · recommendation systems · building things i wish existed
+
+---
+
+📬 open to collabs, research, and interesting problems
