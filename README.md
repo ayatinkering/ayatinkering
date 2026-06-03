@@ -6,7 +6,7 @@
 
 i like building things at the intersection of ml and interesting ui .✦ ݁˖
 
-**currently tinkering with** → neural film stock emulation (CycleGAN + ResNet)
+**currently tinkering with:**  neural film stock emulation (CycleGAN + ResNet)
 
 ---
 
