@@ -2,16 +2,9 @@
 
 20 · infp · cce @ mit manipal '28
 
-> *living by the moto "create not consume".*
+> *living by the motto "create not consume"*
 
-i like building things at the intersection of ml and interesting ui .✦ ݁˖
+i like building things at the intersection of ml and immersive ui .✦ ݁˖
 
-**currently tinkering with:**  neural film stock emulation (CycleGAN + ResNet)
-
----
-
-**interests** → computer vision · recommendation systems · full-stack dev
-
----
-
+**interests** → backend systems · computer vision · ai engineering
  ᯓ✦∘˙ open to collabs, research, and interesting problems
